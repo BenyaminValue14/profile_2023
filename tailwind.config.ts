@@ -18,6 +18,7 @@ const config: Config = {
         brown2: "#260101",
         secondary: "#00f6ff",
         dimWhite: "rgba(255, 255, 255, 0.7)",
+        dimWhite2: "rgba(255, 255, 245, .86)",
         dimBlue: "rgba(9, 151, 124, 0.1)",
         gray2: "rgba(235, 235, 245, .6)",
         gray3: 'rgba(82, 82, 89, .68)',
